@@ -1,12 +1,12 @@
 +++
 title = "Über mich"
 draft = false
-image = "des.gif"
+image = ""
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](des.gif)
 
-## Vorname Nachname
+## Dömel
 
 dominic.rieder@bwdbern.ch
 
