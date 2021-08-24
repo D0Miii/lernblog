@@ -3,6 +3,7 @@ title = "Der erste Blog"
 date = "2021-08-24"
 draft = true
 pinned = false
+description = "Meine Eindrücke und Erlebnisse der ersten WEB-Lektion!"
 +++
 # **Erfahrungen und Erlebnisse mit Webseitenprojekt**
 
