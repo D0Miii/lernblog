@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/edk8wjd3r9741.gif"
+image = "/media/des.gif"
 color = ""
 +++
