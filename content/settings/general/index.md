@@ -1,7 +1,7 @@
 +++
 headless = true
-title = "Domi's Blog"
-description = "Blog von BWD"
+title = "Dömel's Blog"
+description = "Blog dies das!"
 footerLeft = ""
 footerRight = ""
 +++
