@@ -12,21 +12,19 @@ Heute hatten wir zum ersten Mal das Freifach WEB. Mit grossen Erwartungen und Fr
 
 Als erstes wurde geschildert wie die Unterrichtseinheiten jeweils ablaufen werden. Ich fand es sehr interessant und bin gespannt was wir alles noch lernen und erleben werden. 
 
-Nach der Einführung erhielten wie die Möglichkeit mit Carrd.co einen eigene erste Website zu erstellen. 
+Nach der Einführung erhielten wie die Möglichkeit mit Carrd.co einen eigene erste Webseite zu erstellen. 
 
 ![](carrx.png)
 
-Anfänglich hatte ich grössere Schwierigkeiten mit dem Tool umzugehen, da ich mich zu erst etwas zurecht finden musste. Nach einigem Hin und Her klicken konnte ich dann meine eigene kleine Website präsentieren, die ich selbst erstellt habe.
-
- 
+Anfänglich hatte ich grössere Schwierigkeiten mit dem Tool umzugehen, da ich mich zu erst etwas zurecht finden musste. Nach einigem Hin und Her klicken konnte ich dann meine eigene kleine Webseite präsentieren, die ich selbst erstellt habe.
 
 ![Das war mein erster Versuch mit dem ich aber noch nicht so zufrieden war deshalb habe ich noch eine neue Website mit Milo zusammen erstellt.](jaja.jpg "Meine ersten Versuche")
 
-Milo und ich konnten uns gegenseitig gut ergänzen. Als erstes sind wir im Coop zum Blumen laden gegangen um dort diverse Blumen ab zu fotografieren. Anschliessen sind wir zusammen im Zimmer 211 zusammengesessen und haben unsere Website erstellt. 
+Milo und ich konnten uns gegenseitig gut ergänzen. Als erstes sind wir im Coop zum Blumen laden gegangen um dort diverse Blumen ab zu fotografieren. Anschliessen sind wir zusammen im Zimmer 211 zusammengesessen und haben unsere Webseite erstellt. 
 
 ![Website von Milo und mir!](jajajjaja.jpg)
 
-Darauffolgend haben wir uns die Präsentationen der anderen Gruppen angehört und selber noch kurz unsere Website vorgestellt. Ich fand es sehr interessant wie kreativ die anderen Gruppen waren.
+Darauffolgend haben wir uns die Präsentationen der anderen Gruppen angehört und selber noch kurz unsere Webseite vorgestellt. Ich fand es sehr interessant wie kreativ die anderen Gruppen waren.
 
 Im Nachhinein muss ich aber sagen das ich das erstellen der Website eher langweilig fand, da es für mich etwas zu einfach und nicht all zu komplex war. Ich bin aber fest davon überzeugt das es in Zukunft noch etwas komplexer und spannender wird.
 
