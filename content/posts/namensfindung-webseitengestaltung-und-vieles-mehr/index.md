@@ -27,3 +27,15 @@ Zudem habe ich es auch mit meiner BWD E-Mail Adresse verknüpft.
 ![](mail-download.gif)
 
 Nun,  da ich viele einzelne Komponenten hatte, konnte ich alles zu einer finalen Webseite vereinen. Ich muss mir ehrlich eingestehen, dass ich sehr viel spass bei all diesen kleinen Schritten hatte. Ich fühlte mich irgendwie sehr kreativ und voller Energie habe ich die Webseite in kürzester Zeit erstellt. Hier der Link zu Webseite: [website4you.carrd.co](website4you.carrd.co)
+
+#### Leider gibt es auch negative Dinge zu erzählen:
+
+Wir konnten tragischerweise bis heute, immer noch keinen Kunden finden. Dies macht mich nicht sehr glücklich deshalb werde ich bis zum nächsten Mal alles daran setzten einen Kunden zu finden. 
+
+![](sad.gif)
+
+Von nun an werde ich in den Ferien sein, weshalb es in den nächsten 3 Wochen hier etwas ruhiger zu und her gehen wird...
+
+Bis bald
+
+![](unnamed-1-.gif)
