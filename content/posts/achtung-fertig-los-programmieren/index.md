@@ -6,6 +6,8 @@ pinned = false
 image = "pro.jpg"
 description = "Heute fiel der Startschuss zum programmieren! Mit grosser Vorfreude und Elan sind wir ins programmieren Eingestiegen und haben unsere erste Webseite von Grund auf erstellt."
 +++
+# Der Startschuss zum Programmieren
+
 Nach einem kurzen Fachinput von Marco konnten wir direkt selbst loslegen. Nachdem wir den notwendigen Zip Ordner heruntergeladen haben, konnte man nach dem entpacken direkt mit Visual Studio programmieren beginnen.
 
 ![Diese Software haben wir zum Programmieren verwendet!](visual.png)
