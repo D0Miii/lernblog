@@ -1,5 +1,5 @@
 +++
-title = "Die Skills im programmieren werden immer besser"
+title = "Die Skills im Programmieren werden immer besser"
 date = "2021-10-26"
 draft = false
 pinned = false
