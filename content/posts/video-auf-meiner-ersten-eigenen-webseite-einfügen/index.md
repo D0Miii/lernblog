@@ -13,16 +13,13 @@ Diese Frage stellte ich mir zu Beginn der heutigen Lektion. Nach einem kurzen Fa
 1. Als erstes suchen wir das gewünschte Video auf YouTube
 
    ![Link: https://www.youtube.com/watch?v=SXr8Rb97nIk](unbenannt.png)
-2.  Anschliessend klicken wir auf Teilen
+2. Anschliessend klicken wir auf Teilen
 
    ![](1.png)
-
 
 3. Danach klickt man auf "Einbetten" und es wird ein HTML-Code generiert, welchen den nötigen Link beinhaltet
 
    ![](2.png)
-
-
 4. Letztendlich kann man den generierten Code kopieren und in Visual Studio einfügen. Das sieht dann wie folgt aus:
 
    ![So sieht der Code inklusiv Video auf meiner Webseite aus!](3.png)
@@ -30,3 +27,9 @@ Diese Frage stellte ich mir zu Beginn der heutigen Lektion. Nach einem kurzen Fa
    Um zu kontrollieren ob es funktioniert hat, kann man die Webseite auf dem Live Server generieren. Das sollte dann in etwa so aussehen:
 
    ![So sieht meine Webseite aktuell aus!](4.png)
+
+   ## Wie sieht es mit unserem Projekt aus?
+
+   Aktuell bin ich noch auf der Suche nach einer neuen Projekt Idee.....
+
+   ![](nachdenkenzeichenidee-400x400.jpg)
