@@ -1,7 +1,7 @@
 +++
 title = "Video auf meiner ersten eigenen Webseite einfügen"
 date = "2021-11-02"
-draft = true
+draft = false
 pinned = false
 image = "video-1606945_1280-45a4223c58cb314c.png"
 description = "Heute habe ich wieder an meiner Webseite gearbeitet und konnte so mein Wissen festigen und vertiefen. Zudem habe ich heute erfahren wie ich ein Video von YouTube in meine Webseite einbinden."
@@ -16,7 +16,6 @@ Diese Frage stellte ich mir zu Beginn der heutigen Lektion. Nach einem kurzen Fa
 2. Anschliessend klicken wir auf Teilen
 
    ![](1.png)
-
 3. Danach klickt man auf "Einbetten" und es wird ein HTML-Code generiert, welchen den nötigen Link beinhaltet
 
    ![](2.png)
@@ -33,3 +32,7 @@ Diese Frage stellte ich mir zu Beginn der heutigen Lektion. Nach einem kurzen Fa
    Aktuell bin ich noch auf der Suche nach einer neuen Projekt Idee.....
 
    ![](nachdenkenzeichenidee-400x400.jpg)
+
+   Bin aber fest davon überzeugt das es nächsten Mal klappt!
+
+Bis bald!
