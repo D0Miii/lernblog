@@ -26,6 +26,8 @@ Als Kamera werde ich mein normales Handy brauchen, da ich es gerne nur mit Mitte
 
 ![Dies ist mein Handy Oppo find X3 Lite! ](oppo-find-x3-lite-fi-review.jpg)
 
+Ich bin gespannt wie das weiter gehen wird und ob das Endprodukt eine einigermassen gute Qualität aufweisen kann. Mein Vorteil ist, dass ich nichts zu verlieren habe, da ich nichts bestimmtes zu einen bestimmten Zeitpunkt abliefern.
+
 Bis Bald!
 
 ![](kamera_02.gif)
