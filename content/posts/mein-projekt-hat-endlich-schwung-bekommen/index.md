@@ -1,7 +1,7 @@
 +++
 title = "Mein Projekt hat endlich Schwung bekommen!"
 date = "2021-11-16"
-draft = true
+draft = false
 pinned = false
 image = "giphy.gif"
 description = "Ich habe nun endlich eine Kundin gefunden. Voller Freude erzähle ich euch heute wie ich meinen ersten tatsächlichen Kunden finden konnte!"
