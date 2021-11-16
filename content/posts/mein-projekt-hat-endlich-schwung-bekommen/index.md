@@ -25,3 +25,7 @@ Nun habe ich für den 16 November einen Termin zum fotografieren abgemacht. Ich 
 Als Kamera werde ich mein normales Handy brauchen, da ich es gerne nur mit Mitteln machen will die mir persönlich zur Verfügung stehen! 
 
 ![Dies ist mein Handy Oppo find X3 Lite! ](oppo-find-x3-lite-fi-review.jpg)
+
+Bis Bald!
+
+![](kamera_02.gif)
