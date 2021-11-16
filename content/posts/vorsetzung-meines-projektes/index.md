@@ -1,7 +1,7 @@
 +++
 title = "Vorsetzung meines Projektes"
 date = "2021-11-16"
-draft = true
+draft = false
 pinned = false
 image = "360_f_52404413_4giy6ke3iagg323unocxqalrhl79vddp.jpg"
 description = "Heute habe ich an meinem Projekt weitergearbeitet!"
