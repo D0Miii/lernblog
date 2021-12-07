@@ -1,7 +1,7 @@
 +++
 title = "Backe back Kuchen!"
 date = "2021-11-30"
-draft = true
+draft = false
 pinned = false
 image = "zwm.gif"
 description = "Heute habe ich mich mit meiner Kundin getroffen, um erste Fotos vom backen zu machen. Mit grosser Freude habe ich mich heute zu ihr begeben um einen Rotweinkuchen zu backen."
