@@ -1,7 +1,7 @@
 +++
 title = "Nächste Woche ist es soweit!"
 date = "2021-12-07"
-draft = true
+draft = false
 pinned = false
 image = "90801138_1502722233-768x432.jpg"
 description = "Heute habe ich von zu Hause aus nochmal das ganze HTML Tutorial durchgemacht um mich möglichst gut für die kommende Prüfung vom 14. Dezember vorzubereiten."
