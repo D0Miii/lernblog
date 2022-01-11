@@ -30,3 +30,5 @@ Die Webseite habe ich ebenfalls mit einem selbst erstellten Twitter Account und 
 Als all dies getan war, hatte ich wieder genügend Zeit um Kunden zu finden, doch dies gestaltete sich deutlich schwerer als Gedacht. Hier finde ich eine Folie von meiner PowerPoint Präsentation sehr passend:
 
 ![Die Frage auf dieser Folie stellte sich aus eine der wichtigsten Fragen heraus](55.png)
+
+Um ganz ehrlich zu sein ist es mir sehr schwer gefallen einen Kunden zu finden. Nach langem hin und her und einigen Versuchen einen Kunden zu finden habe ich die aktuelle Versuche eingestellt und mich von meinem Partner getrennt da wir beide unterschiedliche neue Projekte verfolgen wollen.
