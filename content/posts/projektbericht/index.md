@@ -13,4 +13,8 @@ Am Anfang des WEB Modules musst man sich in zweier Gruppen zusammenfinden um dan
 
 Der Auftrag war es, einen Kunden zu finden der entweder eine Webseite benötigt oder eine bestehende zu verbessern. Der Auftrag klingt grundsätzlich recht simpel, ist aber schwieriger und komplexer als man denkt.
 
-Ich startete damit, dass ich versucht habe
+Ich startete damit, dass ich versucht habe einen potentiellen Kunden zu finden. Um jemanden zu finden habe ich diverse Telefonate gemacht, jedoch waren diese nicht sonderlich erfolgreich. Entweder hatten die Leute kein Interesse oder sie dachten ich will Ihnen etwas verkaufen. Das telefonieren stellte sich als nicht all zu erfolgreich heraus, deshalb habe ich erstmals damit begonnen für unsere "Organisation" einen Web Auftritt zu erstellen.
+
+Als erstes habe ich mir einen Namen überlegt. Nach langem grübeln kam ich zum Entschluss, dass Website4you ein passender und cooler Name ist. Anschliessend habe ich mich um ein Logo gekümmert. Dieses habe ich auf einer Webseite im Internet von einem Computer erstellen lassen. Das Finale Logo sah wie folgt aus: 
+
+![Das Logo von Website4You](bild1.png)
