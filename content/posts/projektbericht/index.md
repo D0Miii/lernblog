@@ -18,3 +18,9 @@ Ich startete damit, dass ich versucht habe einen potentiellen Kunden zu finden. 
 Als erstes habe ich mir einen Namen überlegt. Nach langem grübeln kam ich zum Entschluss, dass Website4you ein passender und cooler Name ist. Anschliessend habe ich mich um ein Logo gekümmert. Dieses habe ich auf einer Webseite im Internet von einem Computer erstellen lassen. Das Finale Logo sah wie folgt aus: 
 
 ![Das Logo von Website4You](bild1.png)
+
+Darauffolgend habe ich eine passende Webseite erstellt. Diese Webseite habe ich mit Carrd erstellt, da ich mich mit diesem Tool noch nicht sonderlich gut aus kannte deshalb fand ich es praktisch um Erfahrungen mit Carrd zu sammeln. Der Screenshot für die fertige Webseite seht Ihr hier: 
+
+![Dies ist die fertige Webseite von Webseite4You](33.png)
+
+Zur Webseite gelangt [](https://website4you.carrd.co/)
