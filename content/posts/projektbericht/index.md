@@ -23,4 +23,8 @@ Darauffolgend habe ich eine passende Webseite erstellt. Diese Webseite habe ich 
 
 ![Dies ist die fertige Webseite von Webseite4You](33.png)
 
-Zur Webseite gelangt [](https://website4you.carrd.co/)
+Die Webseite habe ich ebenfalls mit einem selbst erstellten Twitter Account und meiner E-Mail Adresse verknüpft. Zur Webseite gelangt Ihr [hier](https://website4you.carrd.co/):
+
+Als all dies getan war, hatte ich wieder genügend Zeit um Kunden zu finden, doch dies gestaltete sich deutlich schwerer als Gedacht. Hier finde ich eine Folie von meiner PowerPoint Präsentation sehr passend:
+
+![Die Frage auf dieser Folie stellte sich aus eine der wichtigsten Fragen heraus](55.png)
