@@ -58,3 +58,7 @@ Ich bin der Meinung, dass das Fach WEB nichts für jeder Mann ist, denn man ben�
 ## Fazit
 
 Im Grossen und Ganzen bin ich sehr zufrieden mit meinem ersten Semester im Fach WEB. Die Leistungsüberprüfungen sind mir sehr gut gelungen und ich hoffe das ich noch im Schnitt auf eine 6 kommen werde. Ich konnte mein Projekt erfolgreich durchführen und bin sehr gespannt was die Zukunft noch mit sich bringen wird. Über das ganze Jahr verteilt hatte ich immer grossen Spass und immer etwas zu lachen im Fach WEB. Ich denke es ist mir gut gelungen die Anforderungen an mich um zusetzten. Für ein Andermal würde ich mir vornehmen etwas gezielter und übersichtlicher zu arbeiten. Damit meine ich, dass ich öfters Notizen festhalten will und auch gezielter und geplanter nach einem Plan zu arbeiten.
+
+## Zukunft
+
+Für das zweite Semester habe ich mir vorgenommen ein weiteres cooles und spannendes Projekt zu realisieren. Als Unterstützung fusioniere ich mit Simone um für maximale Kompetenz in unserem Team zu sorgen. Wir sind beide sehr motiviert und freuen uns auf die gemeinsame Zeit. Ich bin fest davon überzeugt das es uns gelingen wird ein erfolgreiches Projekt zu realisieren. Ich bin gespannt wo hin uns unser Weg führen.
