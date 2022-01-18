@@ -1,7 +1,7 @@
 +++
 title = "Projektbericht"
 date = "2022-01-11"
-draft = true
+draft = false
 pinned = false
 description = "Der heutige Blogeintrag ist etwas speziell, denn heute schreibe ich einen Projektbericht in Form eines Blogeintrages. Viel Spass!"
 +++
