@@ -61,4 +61,8 @@ Im Grossen und Ganzen bin ich sehr zufrieden mit meinem ersten Semester im Fach 
 
 ## Zukunft
 
-Für das zweite Semester habe ich mir vorgenommen ein weiteres cooles und spannendes Projekt zu realisieren. Als Unterstützung fusioniere ich mit Simone um für maximale Kompetenz in unserem Team zu sorgen. Wir sind beide sehr motiviert und freuen uns auf die gemeinsame Zeit. Ich bin fest davon überzeugt das es uns gelingen wird ein erfolgreiches Projekt zu realisieren. Ich bin gespannt wo hin uns unser Weg führen.
+Für das zweite Semester habe ich mir vorgenommen ein weiteres cooles und spannendes Projekt zu realisieren. Als Unterstützung fusioniere ich mit Simone um für maximale Kompetenz in unserem Team zu sorgen. Wir sind beide sehr motiviert und freuen uns auf die gemeinsame Zeit. Ich bin fest davon überzeugt das es uns gelingen wird ein erfolgreiches Projekt zu realisieren. Ich bin gespannt wo hin uns unser Weg führen wird.
+
+Dies war nun mein kurzer Projektbericht zum ersten Semester. Ihr werdet auf jeden Fall auch noch im zweiten Semester mit Blogeinträgen versorgt!
+
+Bis Bald
