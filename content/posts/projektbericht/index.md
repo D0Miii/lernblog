@@ -21,14 +21,16 @@ Als erstes habe ich mir einen Namen überlegt. Nach langem grübeln kam ich zum 
 
 ![Das Logo von Website4You](bild1.png)
 
-Darauffolgend habe ich eine passende Webseite erstellt. Diese Webseite habe ich mit Carrd erstellt, da ich mich mit diesem Tool noch nicht sonderlich gut aus kannte deshalb fand ich es praktisch um Erfahrungen mit Carrd zu sammeln. Der Screenshot für die fertige Webseite seht Ihr hier: 
+Darauffolgend habe ich eine passende Webseite erstellt. Diese Webseite habe ich mit Carrd erstellt, da ich mich mit diesem Tool noch nicht sonderlich gut aus kannte und deshalb fand ich es praktisch um erste Erfahrungen mit Carrd zu sammeln. Der Screenshot für die fertige Webseite seht Ihr hier: 
 
 ![Dies ist die fertige Webseite von Webseite4You](33.png)
 
 Die Webseite habe ich ebenfalls mit einem selbst erstellten Twitter Account und meiner E-Mail Adresse verknüpft. Zur Webseite gelangt Ihr [hier](https://website4you.carrd.co/):
 
-Als all dies getan war, hatte ich wieder genügend Zeit um Kunden zu finden, doch dies gestaltete sich deutlich schwerer als Gedacht. Hier finde ich eine Folie von meiner PowerPoint Präsentation sehr passend:
+Als all dies getan war, hatte ich wieder genügend Zeit um Kunden zu finden, doch dies gestaltete sich deutlich schwerer als Gedacht. An dieser Stelle finde ich eine Folie von meiner PowerPoint Präsentation sehr passend:
 
 ![Die Frage auf dieser Folie stellte sich aus eine der wichtigsten Fragen heraus](55.png)
 
-Um ganz ehrlich zu sein ist es mir sehr schwer gefallen einen Kunden zu finden. Nach langem hin und her und einigen Versuchen einen Kunden zu finden habe ich die aktuelle Versuche eingestellt und mich von meinem Partner getrennt da wir beide unterschiedliche neue Projekte verfolgen wollen.
+Um ganz ehrlich zu sein ist es mir sehr schwer gefallen einen Kunden zu finden. Nach langem hin und her und einigen Versuchen einen Kunden zu finden habe ich die aktuelle Versuche eingestellt und mich von meinem Partner getrennt da wir beide unterschiedliche, neue Projekte verfolgen wollen. Als ich nach mehreren Lektionen immer noch keinen Kunden gefunden habe, hatte ich auf gut deutsch gesagt die Nase voll von der ewigen Sucherei ohne Erfolg. Deshalb versuchte ich nun mit Hilfe von Vitamin B einen passenden Kunden. Kurze Zeit nach meinen Bemühungen hatte ich endlich eine potentielle Kundin. Es handelte sich um eine Freundin von mir, welche meinte, dass sie ein gutes Projekt für mich hätte. Ich traf mich anschliessend mit ihr, um diverse Einzelheiten zu besprechen und zu diskutieren. Die Idee des fertigen Projektes lautet wie folgt: 
+
+Sie meinte zu mir, dass sie regelmässig zum Spass backen würde. Nun kam mir die Idee das ich Fotos vom backen machen könnte und diese dann auf einer Webseite veröffentlichen könnte. Die Idee gefiel ihr super! So schnell ging es und plötzlich hatte ich eine Idee
