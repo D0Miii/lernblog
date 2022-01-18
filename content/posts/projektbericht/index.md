@@ -29,7 +29,7 @@ Die Webseite habe ich ebenfalls mit einem selbst erstellten Twitter Account und 
 
 Als all dies getan war, hatte ich wieder genügend Zeit um Kunden zu finden, doch dies gestaltete sich deutlich schwerer als Gedacht. An dieser Stelle finde ich eine Folie von meiner PowerPoint Präsentation sehr passend:
 
-![Die Frage auf dieser Folie stellte sich aus eine der wichtigsten Fragen heraus](55.png)
+![Die Frage auf dieser Folie stellte sich aus eine der wichtigsten Fragen heraus](unbenannt.png)
 
 Um ganz ehrlich zu sein ist es mir sehr schwer gefallen einen Kunden zu finden. Nach langem hin und her und einigen Versuchen einen Kunden zu finden habe ich die aktuelle Versuche eingestellt und mich von meinem Partner getrennt da wir beide unterschiedliche, neue Projekte verfolgen wollen. Als ich nach mehreren Lektionen immer noch keinen Kunden gefunden habe, hatte ich auf gut deutsch gesagt die Nase voll von der ewigen Sucherei ohne Erfolg. Deshalb versuchte ich nun mit Hilfe von Vitamin B einen passenden Kunden. Kurze Zeit nach meinen Bemühungen hatte ich endlich eine potentielle Kundin. Es handelte sich um eine Freundin von mir, welche meinte, dass sie ein gutes Projekt für mich hätte. Ich traf mich anschliessend mit ihr, um diverse Einzelheiten zu besprechen und zu diskutieren. Die Idee des fertigen Projektes lautet wie folgt: 
 
