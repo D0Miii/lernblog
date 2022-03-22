@@ -1,7 +1,7 @@
 +++
 title = "Meeting mit dem Team"
 date = "2022-03-08"
-draft = true
+draft = false
 pinned = false
 image = "istock-885469174.jpg"
 description = "Heute hatte ich ein Meeting auf Discord. Der Grund für das Meeting war, dass wir einen neuen Moderator in unser Team aufgenommen haben. "
