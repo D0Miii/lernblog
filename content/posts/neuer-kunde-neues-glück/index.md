@@ -20,4 +20,20 @@ Seither habe ich aber niemals gross Zeit aufgewendet einen weiteren Kunden zu su
 
 ![](unbenannt.png)
 
-Mein grober Plan wäre, meinen bisherigen Kunden zu fragen, ob er jemanden kennt, der irgendwie Interesse an einem eigenen Discord Server hat. Zudem habe ich mit dem Gedanken gespielt, auf irgend einer Seite wie Fiver oder Ebay-Kleinanzeigen anzubieten.  Vor ein paar Wochen habe ich ja bereits ein kleines Dokument erstellt, in dem ich zeige
+Mein grober Plan wäre, meinen bisherigen Kunden zu fragen, ob er jemanden kennt, der irgendwie Interesse an einem eigenen Discord Server hat. Zudem habe ich mit dem Gedanken gespielt, auf irgend einer Seite wie Fiver oder Ebay-Kleinanzeigen anzubieten.  Vor ein paar Wochen habe ich ja bereits ein kleines Dokument erstellt, in dem ich zeige, was genau meine Dienste sind.
+
+## Welchen Weg sehe ich als den Sinnvollsten an?
+
+Ich halte den Weg mithilfe von Vitamin-B für den Sinnvollsten. Ich bin fest davon überzeugt, dass jemand aus dem Umfeld von meinem bisherigen Kunden Interesse an meinen Diensten haben könnte.
+
+Die Methode mit Fiver ist eher kompliziert und es ist schwierig als No-Name einen Kunden zu finden der auch bereit ist auf der Plattform mir Geld zu zahlen, denn ich könnte ja auch ein Scammer sein.
+
+## Fazit
+
+Ich werde nach den Frühlingsferien intensiv herumhören und herumfragen, um einen zweiten Kunden zu finden. Vorerst werde ich mich ausschliesslich auf Vitamin-B fokussieren.
+
+
+
+Wir sehen und hören uns nach den Frühlingsferien in alter Frische! 
+
+Bis bald
