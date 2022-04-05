@@ -1,7 +1,7 @@
 +++
 title = "Neuer Kunde neues Glück!"
 date = "2022-04-05"
-draft = true
+draft = false
 pinned = false
 image = "zehn-attraktive-wege-um-neue-kunden-zu-gewinnen-696x415.jpg"
 description = "Im heutigen Blog erzähle ich euch, wie die es mit mir und meinem Projekt in Zukunft weitergeht. Ich habe in einem andern Blogeintrag schon mal kurz angeschnitten, dass ich noch einen zweiten Kunden benötige. Dies werde ich im heutigen Eintrag etwas ausführen.\n"
@@ -31,8 +31,6 @@ Die Methode mit Fiver ist eher kompliziert und es ist schwierig als No-Name eine
 ## Fazit
 
 Ich werde nach den Frühlingsferien intensiv herumhören und herumfragen, um einen zweiten Kunden zu finden. Vorerst werde ich mich ausschliesslich auf Vitamin-B fokussieren.
-
-
 
 Wir sehen und hören uns nach den Frühlingsferien in alter Frische! 
 
